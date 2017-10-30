@@ -5,7 +5,9 @@ boje[1].style.background = 'gray';
 boje[2].style.background = 'gray';
 
 function changeToYellow(){
+	boje[0].style.background = 'gray';
 	boje[1].style.background = 'yellow';
+	boje[2].style.background = 'gray';
 
 }
 function changeToGreen(){
